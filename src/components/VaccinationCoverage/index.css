@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.chart {
+  width: 80vw;
+  background-color: #1c1c2b;
+  background-size: cover;
+  padding: 10px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
